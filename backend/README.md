@@ -14,6 +14,8 @@ python app.py
 ```
 
 
+
+## 動作確認
 ```shell:動作確認
 
 # NFCタグ解決
