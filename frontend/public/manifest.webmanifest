@@ -1,0 +1,9 @@
+{
+  "name": "Den-TouchNet Demo",
+  "short_name": "DTN Demo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0ea5e9",
+  "icons": []
+}
